@@ -30,7 +30,6 @@ primitives/Vertex.h - struct for a vertex.
 
 shaders:
 
-
 lightsources .vert & .frag - shader for light shading only.
 textured .vert & .frag - shader for texturing with an image.
 texturedWithLight .vert & .frag - as above but involving light shading (ambient, occlusion, specular).
