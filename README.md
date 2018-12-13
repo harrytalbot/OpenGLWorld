@@ -7,14 +7,9 @@ All the movement controls using the arrow keys, page up & down and the tour are 
 - BACKSPACE and ENTER increase/decrease the elavation of the camera.
 - R resets all the animation
 - T starts and pauses the tour, and E exits the tour. Control is resumed as soon as the tour is terminated.
-- L and O run through a list of predefined locations, with P going to the screenshot location. M can be used to return to the camera position, or 
-	control can be continued from the pre-defined locations
-- V toggles mouse camera control. When V is pressed, the mouse can be used to look around. The left and right arrow keys then have the effect of stepping
-	left and right rather than looking left and right. The foward and backaward movement is relative to the camera look direction. Pressing V again 
-	returns the mouse and the original controls are applied again. Closing or alt-tabbing out of the application while in this mode will return 
-	control of the mouse to the system. I am aware there was a 5 mark penalty for locking the mouse, but the spec also says that the mouse can be used
-	to control the camera; seeing as the program gives up the mouse without issues i left this in as an optional feature.
-	
+- L and O run through a list of predefined locations, with P going to the screenshot location. M can be used to return to the camera position, or control can be continued from the pre-defined locations
+- V toggles mouse camera control. When V is pressed, the mouse can be used to look around. The left and right arrow keys then have the effect of stepping left and right rather than looking left and right. The foward and backaward movement is relative to the camera look direction. Pressing V again returns the mouse and the original controls are applied again. Closing or alt-tabbing out of the application while in this mode will return control of the mouse to the system. 
+
 (Main) File list:
 
 OpenGLWorld.cpp - main file.
