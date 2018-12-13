@@ -1,0 +1,16 @@
+
+Millennium Falcon Model - https://free3d.com/3d-model/millenium-falcon-82947.html
+Arc 170 Model - https://free3d.com/3d-model/arc-170-battle-ship-64197.html
+
+TEXTURES
+
+cloud.bmp, moon.bmp, saturn.bmp, neptune.bmp, mercury.bmp, 
+sun.bmp - https://cs.calvin.edu/courses/cs/352/files/WebGLBook/images/
+
+ship.bmp - http://www.texturemax.com/category/textures/science-fiction/science-fiction-panels/
+
+space.bmp - http://webtreats.mysitemyway.com/tileable-classic-nebula-space-patterns/
+
+terrain_rock.bmp, terrain_grass.bmp, terrain_slope.bmp - http://www.rastertek.com/pic0221.gif
+
+window.bmp - https://t0.rbxcdn.com/212806db30b8d8c9751c08c251a93d21
